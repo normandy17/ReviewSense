@@ -3,8 +3,8 @@
 
 > An NLP-powered product review intelligence system that classifies sentiment, discovers product categories, and generates AI-written buying guides — deployed as an Amazon-style Streamlit web app.
 
-**GitHub:** `<!-- ADD YOUR GITHUB URL HERE -->`  
-**Live App:** `<!-- ADD YOUR HOSTED APP URL HERE -->`
+**GitHub:** `https://github.com/normandy17/ReviewSense`  
+**Live App:** `https://reviewsense-amz-beauty.streamlit.app/`
 
 ---
 
