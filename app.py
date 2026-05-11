@@ -259,9 +259,9 @@ def format_count(n):
 # ══════════════════════════════════════════════════════════════════════════════
 
 import openai
-from dotenv import load_dotenv, find_dotenv
+# from dotenv import load_dotenv, find_dotenv
 
-_ = load_dotenv(find_dotenv()) 
+# _ = load_dotenv(find_dotenv()) 
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
 client_oai = openai.OpenAI(api_key=OPENAI_API_KEY) if OPENAI_API_KEY else None
 
